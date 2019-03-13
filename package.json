@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "rollup": "^1.6.0",
+    "rollup-plugin-commonjs": "^9.2.1",
+    "rollup-plugin-node-resolve": "^4.0.1"
+  },
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  },
+  "scripts": {
+    "rollup": "rollup -c"
+  }
+}
